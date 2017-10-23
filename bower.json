@@ -1,0 +1,14 @@
+{
+  "name": "web-scraper",
+  "description": "web scraper using nodejs",
+  "main": "app.js",
+  "authors": [
+    "Mike Penzin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "scrap"
+  ],
+  "homepage": "https://github.com/mikepenzin/web-scraper"
+}

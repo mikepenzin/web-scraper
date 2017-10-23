@@ -1,0 +1,33 @@
+{
+  "name": "web-scraper",
+  "version": "0.0.1",
+  "description": "web scraper using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikepenzin/web-scraper.git"
+  },
+  "keywords": [
+    "web",
+    "scrap"
+  ],
+  "author": "Mike Penzin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikepenzin/web-scraper/issues"
+  },
+  "homepage": "https://github.com/mikepenzin/web-scraper#readme",
+  "dependencies": {
+    "async-foreach": "^0.1.3",
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "osmosis": "^1.1.4"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2"
+  }
+}
